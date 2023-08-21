@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nombre": "CORTADO"
+  },
+  {
+    "id": 2,
+    "nombre": "AMERICANO"
+  },
+  {
+    "id": 3,
+    "nombre": "MOCACINO"
+  },
+  {
+    "id": 4,
+    "nombre": "CAPPUCCINO"
+  }
+]
